@@ -1,9 +1,11 @@
 @extends('layout.layout_principal')
-@section('title', 'Lista de Produtos')
+<!-- @section('title', 'Lista de Produtos') -->
 @section('conteudo')
 
-<div class="container">
-    <h1>Estamos ai, firmes e fortes</h1>
+<div class="container mt-3">
+    <h1>Bem vindo ao sistema</h1>
+
+    
 
 </div>
 
